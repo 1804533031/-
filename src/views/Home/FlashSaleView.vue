@@ -7,6 +7,7 @@
     fixed
     placeholder
   />
+  666
   <Swipe :images="images"></Swipe>
   <div class="container">
     <div class="price">
